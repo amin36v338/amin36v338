@@ -88,7 +88,6 @@ dist
 
 .dynamodb/
 
-# TernJS port file
 .tern-port
 
 # macOS
