@@ -97,5 +97,5 @@ pycache/
 .husky
 
 
-# VSCode
+ VSCode
 .vscode/launch.json
