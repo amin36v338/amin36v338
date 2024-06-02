@@ -3,7 +3,7 @@ lerna-debug.log*
 
 report
 
-pids
+
 *.seed
 *.pid.lock
 
