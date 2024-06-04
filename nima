@@ -81,7 +81,7 @@ dist
 # Serverless directories
 .serverless/
 
-.fusebox/
+.fusebox
 
 .dynamodb/
 
