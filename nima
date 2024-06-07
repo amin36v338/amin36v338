@@ -93,7 +93,7 @@ dist
 # python
 pycache/
 
-# backwards compatibility for past contributors
+# backwards  for past contributors
 .husky
 
 
