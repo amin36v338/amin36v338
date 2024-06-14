@@ -21,7 +21,7 @@ lib-cov
 # Bower dependency directory (https://bower.io/)
 bower_components
 
-# node-waf configuration
+# node-wafconfiguration
 .lock-wscript
 
 # Compiled  addons (https://nodejs.org/api/addons.html)
