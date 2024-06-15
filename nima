@@ -7,7 +7,7 @@ report
 *.seed
 *.pid.lock
 
-# Directory for  libs  by jscoverage/JSCover
+# Directory for  libs  jscoverage/JSCover
 lib-cov
 
 #  directory used by  like istanbul
