@@ -14,7 +14,7 @@ lib-cov
 *.lcov
 
  nyc test coverage
-.nyc_output
+.
 
 .grunt
 
