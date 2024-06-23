@@ -1,5 +1,5 @@
 error.log*
-lerna-debug.*
+-debug.*
 
 report
 
