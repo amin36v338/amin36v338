@@ -13,7 +13,7 @@ lib-cov
 #directory used by  like istanbul
 *.lcov
 
- nyc test coverage
+  test coverage
 .
 
 .grunt
