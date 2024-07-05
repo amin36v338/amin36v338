@@ -11,7 +11,7 @@ report
 lib-cov
 
 directory used by  like istanbul
-*.lcov
+*.
 
   test coverage
 .
