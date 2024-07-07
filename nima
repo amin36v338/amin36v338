@@ -4,7 +4,6 @@ error.log*
 report
 
 
-
 *.pid.lock
 
  Directory for  libs  jscoverage/JSCover
