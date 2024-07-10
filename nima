@@ -1,7 +1,7 @@
 error.log*
 -debug.*
 
-report
+reprt
 
 ./
 *.pid.lock
