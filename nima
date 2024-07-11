@@ -3,7 +3,7 @@ error.log*
 
 reprt
 
-./
+.
 *.pid.lock
 
  Directory for  libs  jscoverage/JSCover
