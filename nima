@@ -8,7 +8,7 @@ reprt
  Directory for  libs  jscoverage/JSCover
 lib-cov
 
-directory used by  like istanbul
+directory used by  like 
 *.
 
   test coverage
