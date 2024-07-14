@@ -5,7 +5,7 @@ reprt
 .
 *.pid.lock
 
- Directory for  libs  jscoverage/JSCover
+ Directory for  libs  /JSCover
 lib-cov
 
 directory used by  like 
