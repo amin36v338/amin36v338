@@ -3,7 +3,7 @@ error.log*
 
 
 .
-*.pid.lock
+*.pid.
 
  Directory for  libs  /JSCover
 lib-cov
