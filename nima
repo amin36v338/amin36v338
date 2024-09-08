@@ -7,7 +7,6 @@ error.log*
 lib-co
 directory used by  li
 *.
-
   test coverage
 .
 .grunt
