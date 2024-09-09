@@ -1,7 +1,7 @@
 error.log*
 -debug.*
 
-*.pid.
+*.pid
 
  Directory for  libs  /JSCover
 lib-co
