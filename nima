@@ -6,7 +6,6 @@ lib-co
 directory used by  li
 *.
   test coverage
-
 .grunt
   dependency directory (https://ower.io/
 bower_components
