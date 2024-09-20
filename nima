@@ -4,7 +4,7 @@ error.log*
  Directory for  libs  /JSCove
 lib-co
 directory used by  li
-*
+
   test coverage
 .grunt
   dependency directory (https://ower.io/
