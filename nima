@@ -8,7 +8,6 @@ directory used by  li
 .grun
   dependency directory (https://ower.io/
 bower_components
-
 # node-wafconfiguration
 .lock-wscript
 
