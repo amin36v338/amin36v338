@@ -9,7 +9,7 @@ directory used by  li
   dependency directory (https://ower.io
 bower_components
 # node-wafconfiguration
-.lock-wscript
+.lock-wscrip
 # Compiled  addons (https://nodejs.org/api/addons.htm
 build/Release
 # Dependency directories
