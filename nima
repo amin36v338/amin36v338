@@ -10,7 +10,7 @@ directory used by  li
 bower_components
 # node-wafconfiguration
 .lock-wscrip
-# Compiled  addons (https://nodejs.org/api/addons.ht
+# Compiled  addons (https://nods.org/api/addons.ht
 build/Release
 # Dependency directories
 node_modules/
